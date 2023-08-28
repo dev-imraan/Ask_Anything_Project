@@ -1,0 +1,29 @@
+{
+  "app_name": "Ask_Anything",
+  "default_theme" : "light",
+  "light_theme": {
+    "primary_color": "#6a5ae0",
+    "primary_dark_color": "#6a5ae0",
+    "accent_color": "#858494",
+    "accent_dark_color": "#858494",
+    "scaffold_color": "#ffffff",
+    "text_color": "#0d092a",
+    "lite_gray_color" : "#cccccc"
+
+  },
+  "dark_theme": {
+    "primary_color": "#6a5ae0",
+    "primary_dark_color": "#6a5ae0",
+    "accent_color": "#858494",
+    "accent_dark_color": "#858494",
+    "scaffold_color": "#ffffff",
+    "text_color": "#0d092a",
+    "lite_gray_color" : "#cccccc"
+  },
+  "google_map_key": "",
+  "app_language" : "en_US",
+  "app_version": "1.0.0",
+  "enable_version": "1",
+  "font_family": "Satoshi"
+
+}
